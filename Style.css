@@ -1,0 +1,34 @@
+body {
+    background-color: #e4dfd3;
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+
+header {
+    width: 100%;
+    height: 125px;
+    background-color: tan;
+}
+
+.topic {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    padding: .2%;
+}
+
+.spectrum {
+    padding: 1%;
+}
+
+.video {
+    padding: 2%;
+}
+
+footer {
+    width: 100%;
+    height: 125px;
+    background-color: tan;
+}
+
+h3 {
+    padding: 1%;
+}
